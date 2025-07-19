@@ -1,7 +1,9 @@
-🚢 Titanic Survival Prediction using Machine Learning
+🚢 Titanic Survival Prediction Using Machine Learning Project During My Edunet Microsoft Internship.
 
 ![Intro](https://github.com/user-attachments/assets/f454cba9-0ad3-4a6c-a064-c4d715040251)
-![Uploading Code.jpg…]()
+
+![Code](https://github.com/user-attachments/assets/5bf00952-de73-4fdf-b97c-090965b632ed)
+
 
 
 This project uses Logistic Regression to predict survival outcomes of passengers aboard the Titanic. It is part of a capstone project completed under the AICTE Edunet Internship Program.
